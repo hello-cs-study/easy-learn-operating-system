@@ -84,4 +84,8 @@ npm run md
 
 -   **발표자료는 스터디 전날까지 업로드를 하는 것을 원칙으로 합니다.**
 -   발표자료가 준비가 완료되셨고 개인 Branch에 업로드 하셨다면 Main으로 PR을 요청합니다.
+    -   제가 설정해놓은 PR Template을 사용하시면 되겠습니다.
+    -   PR 제목은 `[PR-<본인이름>] N주차 발표자료 업로드 입니다.` 로 설정해주시면 되겠습니다!
 -   스터디 장이 확인 후에 Main으로 Merge를 진행합니다.
+
+<img width="1445" alt="Image" src="https://github.com/user-attachments/assets/da92646a-961d-4fe2-83dd-d4e3009f368c" />
