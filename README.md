@@ -1,6 +1,6 @@
 # 📚 쉽게 배우는 운영체제 스터디 📚
 
--   쉽게 배우는 운영체제 책으로 5주간 스터디를 진행합니다.
+-   [쉽게 배우는 운영체제](https://product.kyobobook.co.kr/detail/S000200716007) 책으로 5주간 스터디를 진행합니다.
 -   부족한 내용은 아래 두 서브 자료를 참고하는 것으로 합니다.
     -   [KOCW 이화여자대학교 반효경 교수님 강의자료](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
     -   [널널한 개발자님의 무료 운영체제 강의](https://www.youtube.com/playlist?list=PLTkhhrcp-A5FRsNPPEQbSZyICx4Dl8w1s)
