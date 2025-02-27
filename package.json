@@ -1,0 +1,20 @@
+{
+    "name": "easy-learn-operating-system",
+    "version": "1.0.0",
+    "description": "쉽게 배우는 운영체제 스터디",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hello-cs-study/easy-learn-operating-system"
+    },
+    "scripts": {
+        "md": "node lib/createMd.js",
+        "presentation": "node lib/createPresentation.js"
+    },
+    "author": "iamkanguk97",
+    "license": "ISC",
+    "dependencies": {
+        "dayjs": "^1.11.13"
+    }
+}
