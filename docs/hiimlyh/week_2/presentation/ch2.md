@@ -20,7 +20,7 @@
 
 **◼️ 크기 단위**
 
-![image.png](./images/image.png)
+![image.png](../../week_2/presentation/images/image.png)
 
 **⏲ 클록과 헤르츠**
 
@@ -88,7 +88,7 @@
 
 ## ✅  메모리의 종류
 
-![image.png](./images/image%201.png)
+![image.png](../../week_2/presentation/images/image%201.png)
 
 - **RAM**
 
